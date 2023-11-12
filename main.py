@@ -27,9 +27,9 @@ for i in unique_words:
     key_words[i] = words_after_unique
     words_after_unique = []
 
-print(key_words)
+#print(key_words)
 
-for i in range(3):
+for i in range(int(text.split()[0])):
     last_word = random.choice(unique_words)
     sentence += last_word + ' '
     while last_word[-1] != '.':
