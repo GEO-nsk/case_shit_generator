@@ -1,6 +1,6 @@
 '''
 Gagol Egor - 70
-Karpenko Nikolay -
+Karpenko Nikolay - 30
 Tarlo Evgeny - 50
 '''
 
