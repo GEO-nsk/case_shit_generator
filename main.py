@@ -1,7 +1,7 @@
 '''
-Gagol Egor - 70
+Gagol Egor - 100
 Karpenko Nikolay - 30
-Tarlo Evgeny - 50
+Tarlo Evgeny - 95
 '''
 
 import random
